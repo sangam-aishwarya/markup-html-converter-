@@ -3,6 +3,7 @@
 A JavaScript-based Markdown to HTML Converter that transforms basic Markdown syntax into HTML elements and displays the output in real time.
 
 This project allows users to write Markdown text and instantly see:
+
 - The generated HTML code
 - The rendered HTML preview
 
