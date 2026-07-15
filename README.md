@@ -34,6 +34,10 @@ The converter supports the following Markdown elements:
 - Blockquotes
   - `> quote text`
 
+## Preview
+
+![Markdown Converter Screenshot](screenshots/markdown-converter-output.png)
+
 ## Technologies Used
 
 - HTML5
